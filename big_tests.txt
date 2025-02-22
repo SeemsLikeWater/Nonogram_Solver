@@ -1,0 +1,14 @@
+// This file contains inputs of some large nonograms which you can test your
+// program with. It is *not mandatory* to be able to solve these pictures.
+
+HEART (5x5)
+5 5 n 1 1 n 1 1 1 n 1 1 n 1 1 n 1 n 2 n 1 1 n 1 1 n 1 1 n 2 n
+
+SWISS (5x5)
+5 5 n 5 n 2 2 n 1 1 n 2 2 n 5 n 5 n 2 2 n 1 1 n 2 2 n 5 n
+
+DUCK (9x8):
+9 8 n 3 n 2 1 n 3 2 n 2 2 n 6 n 1 5 n 6 n 1 n 2 n 1 2 n 3 1 n 1 5 n 7 1 n 5 n 3 n 4 n 3 n
+
+CAT (28x30):
+28 30 n 2 9 3 3 n 4 5 3 2 3 n 2 4 3 3 3 n 2 3 3 2 2 n 2 14 2 2 n 1 13 2 2 n 2 14 2 1 n 2 1 7 2 2 6 n 2 1 4 2 2 1 4 n 2 1 1 1 2 n 6 4 3 n 4 6 3 6 n 3 5 2 1 2 5 n 1 5 2 1 1 2 6 n 1 5 2 1 10 n 1 8 3 4 n 2 1 2 n 2 1 3 n 1 5 2 2 n 1 6 5 2 n 1 1 3 2 2 n 2 2 2 n 3 3 n 4 4 n 6 4 1 n 24 1 n 10 8 1 n 8 6 1 n  10 10 n 11 7 n 4 3 6 n 2 2 1 5 n 3 4 2 4 n 2 1 1 2 4 n 3 2 2 3 n 4 2 3 2 3 n 6 4 2 2 n 1 5 5 2 2 n 1 5 3 1 1 1 n 2 4 2 1 2 1 n 2 4 5 1 n 2 5 1 3 1 n 2 3 2 2 1 1 n 2 4 3 1 2 n 1 5 2 3 n 1 4 2 1 3 n 6 1 2 3 n 8 3 5 3 n 2 1 2 2 2 3 n 2 2 5 1 3 n 1 1 1 3 2 3 n 3 2 2 1 1 2 n 8 4 1 n 13 2 n 9 2 n 3 6 1 4 n 6 17 n 7 7 n
